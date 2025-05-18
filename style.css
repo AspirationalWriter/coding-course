@@ -11,6 +11,7 @@ text-decoration:none;
 color:purple;
 font-family:courier;
 font-style:italic;
+margin:0px 10px 0px 10px;
 }
 
 #underline {
@@ -101,6 +102,13 @@ border:2px outset #004F92;
 address {
 color:purple;
 font-style:italic;
+}
+header {
+
+/*margin:70px 0px 0px 0px;*/
+position:relative;
+top:70px;
+text-align:center;
 }
 
 
